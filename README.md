@@ -1,6 +1,5 @@
 
-👨‍💻 Sujeet Kumar
-🚀 About Me
+
 
 Hi there! 👋 I'm Sujeet Kumar, a passionate MERN Stack Developer who loves building dynamic and scalable web applications. With a strong foundation in React and backend technologies, I thrive on turning innovative ideas into functional and beautiful digital experiences. 🌟
 💻 What I Do
@@ -35,5 +34,6 @@ Hi there! 👋 I'm Sujeet Kumar, a passionate MERN Stack Developer who loves bui
     ✨ I believe in continuous learning and strive to improve every day!
 
 
+![Sujeet's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujeet05kp&theme=react-dark)
 
 
