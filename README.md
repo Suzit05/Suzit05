@@ -34,6 +34,6 @@ Hi there! 👋 I'm Sujeet Kumar, a passionate MERN Stack Developer who loves bui
     ✨ I believe in continuous learning and strive to improve every day!
 
 
-![Sujeet's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujeet05kp&theme=react-dark)
+![Sujeet's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suzit05&theme=react-dark)
 
 
