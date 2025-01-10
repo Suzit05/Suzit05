@@ -9,15 +9,9 @@ Hi there! 👋 I'm Sujeet Kumar, a passionate MERN Stack Developer who loves bui
     ⚙️ Full-Stack Projects: Designing and developing end-to-end applications with the MERN Stack.
     🛠️ Problem Solver: Tackling challenges using Data Structures and Algorithms to write efficient and clean code.
 
-🌟 Skills
 
-    Frontend: React.js, Hooks, Redux, Material UI, Bootstrap, Tailwind CSS, GSAP
-    Backend: Node.js, Express.js, JWT Authentication
-    Database: MongoDB, MySQL
-    Tools & Platforms: Git, GitHub, Postman, Vite
-    Others: JavaScript, APIs, RESTful Services, Deployment Strategies
 
- ### 🌟 Skill Set  
+### 🌟 Skill Set  
 
 | **Frontend**                     | **Backend**                     | **Databases**       | **Tools & Platforms**       | **Programming Languages** | **Others**                    |
 |-----------------------------------|----------------------------------|---------------------|-----------------------------|---------------------------|-------------------------------|
@@ -27,7 +21,6 @@ Hi there! 👋 I'm Sujeet Kumar, a passionate MERN Stack Developer who loves bui
 | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |                                  |                     | ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) |                           |                               |
 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |                                  |                     |                             |                           |                               |
 | ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black) |                                  |                     |                             |                           |                               |
-
 
 
 
